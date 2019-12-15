@@ -23,7 +23,7 @@
     "resolve": "^1.10.0",
     "semver": "^6.3.0",
     "which": "^2.0.1",
-    "yeoman-environment": "^2.5.0",
+    "yeoman-environment": "^2.7.0",
     "yeoman-generator": "^4.1.0",
     "yosay": "^2.0.1"
   },
