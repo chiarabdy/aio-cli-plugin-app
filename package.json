@@ -16,7 +16,7 @@
     "fs-extra": "^8.1.0",
     "hjson": "^3.2.1",
     "ignore-walk": "^3.0.1",
-    "inquirer": "^7.0.0",
+    "inquirer": "7.0.3",
     "js-yaml": "^3.13.1",
     "npm-package-arg": "^8.0.0",
     "open": "^7.0.0",
