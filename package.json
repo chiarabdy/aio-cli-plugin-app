@@ -17,7 +17,7 @@
     "get-port": "^5.1.1",
     "hjson": "^3.2.1",
     "ignore-walk": "^3.0.1",
-    "inquirer": "^7.0.0",
+    "inquirer": "^7.0.5",
     "js-yaml": "^3.13.1",
     "npm-package-arg": "^8.0.0",
     "ora": "^4.0.3",
